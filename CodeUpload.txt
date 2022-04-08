@@ -26,3 +26,9 @@ git remote add origin https://github.com/BlueMoNKeY9527/MusicBOT_Glitch.git
 git branch -M main
 git push -u origin main
 
+
+已經建立後
+git rm 你要的東西   ;刪除
+git add 你要的東西 ;增加
+git commit -m "註解"
+git push  ;上傳
