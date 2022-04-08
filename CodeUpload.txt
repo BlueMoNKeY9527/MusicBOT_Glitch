@@ -1,0 +1,28 @@
+git init
+git add 你要的東西
+git commit -m "註解"
+git remote add origin https://github.com/BlueMoNKeY9527/MusicBot_Glitch.git
+git push -u origin master ;匯入檔案
+
+
+
+
+
+git status ;目前狀態
+
+
+…or create a new repository on the command line
+echo "# MusicBOT_Glitch" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/BlueMoNKeY9527/MusicBOT_Glitch.git
+git push -u origin main
+
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/BlueMoNKeY9527/MusicBOT_Glitch.git
+git branch -M main
+git push -u origin main
+
